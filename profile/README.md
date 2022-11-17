@@ -1,5 +1,3 @@
-# .github
-
 # behappy-hospital(尚医通-改)
 
 > 所有文档/sql在doc目录下
