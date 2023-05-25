@@ -1,10 +1,10 @@
-# behappy-gulimall(谷粒商城 SpringBoot3.x)
+# behappy-hospital(尚医通-改)
 
 ### 介绍
 
 - 背景
 
-本项目是在尚硅谷-谷粒商城项目基础上改造， 对原项目进行springboot3.x版本改造、且将原项目涉及到的业务及技术栈进行全新升级
+本项目是在尚硅谷-尚医通项目基础上改造， 整合分布式事务、 限流降级、 分布式定时任务， 监控等技术， 完善了业务代码， 修改了许多原项目存在的bug
 
 - 目的
 
@@ -16,10 +16,7 @@
 所以我的目的, 就是想可以借着这个实战项目持续输出一些技术/代码能力, 以此加深/巩固自己对这些技术/代码能力的认识
 ```
 
-### 谷粒商城-代码生成器(renren-generator)： [https://github.com/behappy-hospital/behappy-hospital/tree/springboot2](https://github.com/behappy-gulimall/behappy-gulimall-generator)
+### springboot2版本参阅(springboot2分支)： https://github.com/behappy-hospital/behappy-hospital/tree/springboot2
 
-### 谷粒商城-后台管理-前端(renren-fast-vue)： [https://github.com/behappy-hospital/behappy-hospital](https://github.com/behappy-gulimall/behappy-gulimall-vue)
+### springboot3版本参阅(master分支或springboot3分支)： https://github.com/behappy-hospital/behappy-hospital
 
-### 谷粒商城-后台管理(renren-fast)： [https://github.com/behappy-hospital/behappy-hospital](https://github.com/behappy-gulimall/behappy-gulimall-fast)
-
-### 谷粒商城SpringBoot3.x： [https://github.com/behappy-hospital/behappy-hospital](https://github.com/behappy-gulimall/behappy-gulimall)
